@@ -1,0 +1,13 @@
+.top-section {
+    text-align: center;
+    padding: 50px 0 50px;
+    background: #999FF0;
+}
+ol {
+    list-style: inside;
+    list-style-type: decimal;
+
+}
+li {
+    text-align: center;
+}
